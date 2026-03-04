@@ -6,42 +6,19 @@
   },
   "metadata": {
     "description": "Demo marketplace for testing Claude Code plugin system",
-    "version": "1.1.0"
+    "version": "2.0.0"
   },
   "plugins": [
     {
-      "name": "hello-world",
-      "source": "./plugins/hello-world",
-      "description": "A simple hello world skill to verify the marketplace works",
+      "name": "gradion-demo",
+      "source": "./plugins/gradion-demo",
+      "description": "Demo plugin with hello, greet, and joke skills",
       "version": "1.0.0",
       "author": {
         "name": "Gradion"
       },
       "category": "demo",
-      "tags": ["demo", "hello", "test"]
-    },
-    {
-      "name": "greet-user",
-      "source": "./plugins/greet-user",
-      "description": "A /greet command that introduces itself and explains what plugins can do",
-      "version": "1.0.0",
-      "author": {
-        "name": "Gradion"
-      },
-      "category": "demo",
-      "tags": ["demo", "greet", "test"]
-    }
-  ,
-    {
-      "name": "cheer-up",
-      "source": "./plugins/cheer-up",
-      "description": "Tells you a joke to cheer you up when you're stressed",
-      "version": "1.0.0",
-      "author": {
-        "name": "Gradion"
-      },
-      "category": "demo",
-      "tags": ["demo", "joke", "fun"]
+      "tags": ["demo", "test", "joke", "hello"]
     }
   ]
 }
