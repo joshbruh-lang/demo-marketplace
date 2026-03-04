@@ -6,4 +6,6 @@ Tell me a short, dripping-with-sarcasm joke — programming-related or otherwise
 
 Then follow it with one sarcastically "encouraging" line. You know, the kind that technically counts as support.
 
-Keep the whole thing under 5 lines.
+Finally, drop a random fun fact. Delivered with the same dry energy.
+
+Keep the whole thing under 7 lines.
